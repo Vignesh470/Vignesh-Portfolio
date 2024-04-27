@@ -1,0 +1,34 @@
+* {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+.project-bg-1 {
+    background-image: url(./images/chat\ app.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.project-bg-2 {
+    background-image: url(./images/HTML\ resume.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.project-bg-3 {
+    background-image: url(./images/data\ storage\ page.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.project-bg-4 {
+    background-image: url(./images/bootstrap\ project\ page.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.card-body {
+    background-color: rgba(223, 227, 231, 0.705);
+    backdrop-filter: blur(1px);
+}
